@@ -1,0 +1,11 @@
+<!-- Indices written at Tue, 18 Feb 2014 15:15:03 EST -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="Stock" ancestor="false" source="auto">
+        <property name="user" direction="asc"/>
+        <property name="createDate" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
